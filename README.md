@@ -7,15 +7,18 @@
 ## Purpose of Analysis
 
 The purpose of Kickstarter analysis is to breakbown large number of data into meaningful charts and pivot tables from which we can easily see the desired information. 
+
 •	Background - The main sheet contains information about the various file video and television shows. It contained of when it was launched, the countries it was launched in, the goal as well a the outcomes in terms of funds that is how successful it was.
 
 ## Analysis based on launch date
 
 In order to perform the analysis, I took help of pivot tables, charts as well as various excel functions. There are couple of analysis which were done. Below is the screenshot attached of the pivot table.
+
 ·	Theatre outcomes by launch date - There were many parent categories however I filtered only to see the theatre outcomes by launch date. With the help of pivot table, we can see how many shows were 
 i.	cancelled - 37
 ii.	Failed - 493
 iii.	Successful - 839
+
 
 
 •	Result - Under the "theatre" category, successful campaigns were highest all over a year with "May" month backing first position. Also in the month of October there were no shows cancelled.
@@ -32,13 +35,16 @@ i.	Filter years to months - Data was provided with year when it was launched. In
 ## Analysis based on Goals
 
 In order to perform the outcome based  on goals I tool the help of countifs funtion which was based on goals that were in the dollar value.
+
 ·	Goal outcome by price range - The range is from less than 1000 to 50000 or more. In between this price range analysis was done on the following.
 i.	Successful
 ii.	Failed
 iii.	Cancelled
 iv.	Total projects
 
+
 •	Result - With the help of percentage function, we can see that number of successful shows were within the range of $1000 and less. Also, there were no successful shows with the price range of $45000-$49999. A major revelation is there were no cancelled shows within the provided range.
+
 
 •	Challenges 
 
