@@ -17,9 +17,9 @@ In order to perform the analysis, I took help of pivot tables, charts as well as
 
 ### Theatre outcomes by launch date 
  There were many parent categories however I filtered only to see the theatre outcomes by launch date. With the help of pivot table, we can see how many shows were 
-i.	cancelled - 37
-ii.	Failed - 493
-iii.	Successful - 839
+#### i.	cancelled - 37
+#### ii.	Failed - 493
+#### iii.	Successful - 839
 
 
 
@@ -40,10 +40,10 @@ i.	Filter years to months - Data was provided with year when it was launched. In
 In order to perform the outcome based  on goals I tool the help of countifs funtion which was based on goals that were in the dollar value.
 
 ·	Goal outcome by price range - The range is from less than 1000 to 50000 or more. In between this price range analysis was done on the following.
-i.	Successful
-ii.	Failed
-iii.	Cancelled
-iv.	Total projects
+#### i.	Successful
+#### ii.	Failed
+#### iii.	Cancelled
+#### iv.	Total projects
 
 
 ### Result 
