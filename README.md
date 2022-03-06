@@ -55,7 +55,7 @@ With the help of percentage function, we can see that number of successful shows
 i.	The  challenge I faced was in Countifs function. Under number of cancelled projects as I was getting 0 and I thought I am doing some mistake in the formula. Below is the screenshot attached.
  
 Just to confirm I manually went to see if there was any successful campaigns and seems like there were no successful campaigns in the range "less than 1000".
-![Fifure 2]https://github.com/aashvie21/kickstarter-analysis/blob/main/Images/del2.png
+![Fifure 2](https://github.com/aashvie21/kickstarter-analysis/blob/main/Images/del2.png)
 
 
 
