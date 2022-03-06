@@ -21,13 +21,15 @@ iii.	Successful - 839
 •	Result - Under the "theatre" category, successful campaigns were highest all over a year with "May" month backing first position. Also in the month of October there were no shows cancelled.
        
       
-•	Challenges 
+### Challenges 
 
 i.	Filter years to months - Data was provided with year when it was launched. In order to see the data for every month, year had to be put into 4 Quanters as this concept was new for me so I had to play out a little in order to convert years to months. Below is the screenshot attached for the same.
+
+![Figure 1](https://github.com/aashvie21/kickstarter-analysis/blob/main/Images/del1.png)
  
 
 
-Analysis based on Goals
+## Analysis based on Goals
 
 In order to perform the outcome based  on goals I tool the help of countifs funtion which was based on goals that were in the dollar value.
 ·	Goal outcome by price range - The range is from less than 1000 to 50000 or more. In between this price range analysis was done on the following.
